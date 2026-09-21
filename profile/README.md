@@ -19,3 +19,13 @@ The current React, TypeScript, and Vite implementation of Calculogic. It is the 
 The standalone repository is the current authoritative source for the Calculogic Validator: a modular validation suite that grew from the need to make Calculogic's written conventions deterministic and inspectable. Its extraction gives the Validator independent ownership and enables reuse by consumers such as the React app.
 
 Each project repository owns its implementation details, installation guidance, architecture, workflows, contracts, specifications, and detailed history. This profile provides organization-level context and routes readers to the current project documentation.
+
+## AI-Assisted Development
+
+AI tools are used throughout HCAToolkit's research, design, writing, development, and review, but direction and decisions remain mine. I establish the vision for each project, explore and evaluate design options, determine priorities, and decide which changes are ultimately accepted.
+
+AI assists with the reasoning behind that work: discussing ideas, examining alternatives, challenging assumptions, developing explanations, and refining technical approaches before anything is built. It also helps write, organize, and revise the living documents — design notes, research threads, specifications — that support ongoing work across these projects. These documents are not exhaustive change logs. They retain ideas that remain relevant, might become useful later, or are still unresolved; ideas that have been definitively abandoned are removed rather than kept as a historical record. An idea appearing in a living document is not necessarily an active direction, an approved decision, or an implemented feature.
+
+Concepts developed this way can inform scoped GitHub issues and implementation tasks. From there, AI agents assist with coding, testing, documentation, and review, and the results are evaluated through pull requests and recorded verification rather than taken on faith. Different projects don't necessarily follow an identical process — in some cases, multiple AI agents independently review one another's work, identifying problems or proposing corrections. This adds a review opportunity; it does not replace human oversight.
+
+Across all of this, responsibility for what gets accepted, deferred, rejected, or merged remains mine. AI participates in the process; it does not own the outcome.
